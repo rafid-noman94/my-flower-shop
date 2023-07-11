@@ -1,5 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    margin: 0;
 }
 
 
@@ -205,4 +206,24 @@ margin-right: 663px;
 .d1 img{
     width: 500px;
     height: 600px;
+}
+
+
+footer{
+    background-color: black;
+    height: 450px;
+    margin-top: 130px;
+    color: white;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.footer{
+padding-top: 130px;
+}
+.footer h2{
+    font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
 }
