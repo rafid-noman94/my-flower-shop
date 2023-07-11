@@ -17,20 +17,21 @@ justify-content: space-between;
 #header-caption{
     color: #272727;
     font-family: Lato;
-    font-size: 80px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 800;
     line-height: normal;
 }
 #first-div{
-    margin-top: 197px;
+    margin-top: 97px;
     margin-bottom: auto;
-    width: 700px;
+    width: 350px;
 }
 #second-div{
     margin-top: 50px;
   
 }
+
 .first-div p{
     color: rgba(39, 39, 39, 0.60);
 font-family: Lato;
@@ -50,7 +51,7 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 
-padding: 20px 43px;
+padding: 10px 20px;
 }
 .featured-flowers{
 margin-top: 178px;
@@ -74,32 +75,32 @@ display: flex;
 justify-content: space-between;
 }
 .picture img{
-
-
+ width: 300px;
+ height: 450px;
 }
 
 .imgs{
-width: 464px;
-height: 538px;
+width: 330px;
+height: 450px;
 
 }
 #st-img{
 border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
-padding: 100px;
+/* padding: 50px; */
 
 }
 #sst-img{
 border-radius: 300px 300px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
-padding: 100px;
+/* padding: 100px; */
 }
 #ssst-img{
 border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
-padding: 100px;
+/* padding: 100px; */
 }
-#img-i{
+/* #img-i{
     margin-top: 207px;
     margin-left:45px ;
 }
@@ -110,7 +111,7 @@ padding: 100px;
 #img-k{
     margin-top: 164px;
     margin-left: 65px;
-}
+} */
 .picture h5{
     color: #272727;
 text-align: center;
@@ -124,19 +125,21 @@ text-decoration-line: underline;
 .trd{
     display: flex;
     justify-content: space-between;
+    margin: 100px 240px;
+    text-align: center;
 }
 #ddd{
-    padding-top: 100px;
+    /* padding-top: 100px;
     padding-bottom: 100px;
-    padding-right: 429px;
+    padding-right: 429px; */
 }
 #cp{
     color: #272727;
 font-family: Lato;
 font-size: 40px;
 font-weight: 800;
-margin-left: 423px;
-margin-top: 230px;
+/* margin-left: 423px;
+margin-top: 230px; */
 
 }
 #asd{
@@ -144,14 +147,15 @@ color: rgba(39, 39, 39, 0.60);
 text-align: center;
 font-family: Lato;
 font-size: 18px;
-line-height: 30px;
-margin-left: 395px;
+/* line-height: 30px; */
+/* margin-left: 395px; */
 font-weight: 400px;
-margin-right: 186px;
+/* margin-right: 186px; */
 width: 600px;
 }
 #lo{
-    margin-left: 603px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .tdr{
 border-radius: 8px;
@@ -171,10 +175,7 @@ line-height: normal;
     color: #E55473;
 }
 #tan{
-    border-top: 128px;
-    border-bottom: 128px;
-    border-left: 240px;
-    border-right: 240px;
+    margin: 100px 240px;
 }
 #df{
     color: #27272799;
@@ -187,15 +188,14 @@ text-align: center;
 font-family: Lato;
 font-size: 18px;
 font-weight: 400;
-line-height: 30px;
-margin-left: 663px;
-margin-right: 663px;
+width: 800px;
+margin-right: auto;
+margin-left: auto;
 }
 .tu{
     display: flex;
     justify-content: space-between;
-    margin-left: 240px;
-    margin-right: 240px;
+    
 }
 #op{
     
@@ -204,8 +204,8 @@ margin-right: 663px;
     
 }
 .d1 img{
-    width: 500px;
-    height: 600px;
+    width: 250px;
+    height: 300px;
 }
 
 .subscribe{
