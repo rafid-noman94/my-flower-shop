@@ -208,6 +208,39 @@ margin-right: 663px;
     height: 600px;
 }
 
+.subscribe{
+    margin: 80px 240px;
+    height: 450px;
+    border-radius: 8px;
+background: url('../images/Rectangle 9.png');
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.subs-div{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding-top: 120px;
+}
+.subs-div h2{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.input-feild{
+    display: flex;;
+}
+.inpt{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+}
 
 footer{
     background-color: black;
