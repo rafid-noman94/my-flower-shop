@@ -1,3 +1,8 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 header{
 
 background: rgba(229, 84, 115, 0.10);
@@ -45,4 +50,73 @@ font-weight: 700;
 line-height: normal;
 
 padding: 20px 43px;
+}
+.featured-flowers{
+margin-top: 178px;
+margin-left: 240px;
+margin-right: 240px;
+}
+.featured-text{
+width: 800px;
+text-align: center;
+margin: auto;
+}
+#para-font{
+    font-size: 25px;
+}
+.featured-text h3{
+    font-weight: 800;
+    font-size: 40px;
+}
+.picture {
+display: flex;
+justify-content: space-between;
+}
+.picture img{
+
+
+}
+
+.imgs{
+width: 464px;
+height: 538px;
+
+}
+#st-img{
+border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding: 100px;
+
+}
+#sst-img{
+border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+padding: 100px;
+}
+#ssst-img{
+border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding: 100px;
+}
+#img-i{
+    margin-top: 207px;
+    margin-left:45px ;
+}
+#img-j{
+    margin-top: 180px;
+    margin-left: 45px;
+}
+#img-k{
+    margin-top: 164px;
+    margin-left: 65px;
+}
+.picture h5{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
 }
